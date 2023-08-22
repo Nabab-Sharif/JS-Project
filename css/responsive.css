@@ -12,7 +12,14 @@
 
 
   .cards .first_card input {
-    padding: 4px 0 4px 4px;
+    padding: 6px;
     font-size: 8px;
   }
+
+
+  .cards .first_card h1 {
+    margin-bottom: 33px;
+    font-size: 16px;
+  }
+
 }
