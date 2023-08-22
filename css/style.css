@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.cards {
+  padding: 100px;
+  background-color: darkgray;
+  height: auto;
+}
+
+.cards .first_card {
+  background-color: darkcyan;
+ height: 100%;
+  width: 100%;
+  padding: 100px;
+}
+
+.cards .first_card input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.cards .first_card button {
+  padding: 10px;
+  background-color: rgb(92, 5, 97);
+  color: rgb(242, 241, 238);
+  border: 0;
+  cursor: pointer;
+
+}
+
+.cards .first_card p {
+  margin-bottom: 15px;
+}
+
+.cards .first_card h3 {
+  margin-top: 50px;
+}
